@@ -4,7 +4,7 @@ students = {'ivanov': datetime.datetime(2022, 12, 1),
             'sidorov': datetime.datetime(2022, 12, 30),
             'petrov': datetime.datetime(2023, 1, 11),
             'bonchbruevich': datetime.datetime(2022, 11, 29)
-}
+            }
 
 
 def deadline_score(pass_date, deadline_date):
@@ -33,8 +33,6 @@ def late_list(dict_students, deadline_date):
     return result_list
 
 
-
-
 def main():
     while True:
         input_string = input('input valid command:')
@@ -55,8 +53,6 @@ def main():
         elif input_string == 'exit':
             print('bye!')
             break
-
-
 
 
 if __name__ == '__main__':
