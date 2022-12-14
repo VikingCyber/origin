@@ -51,7 +51,7 @@ def main():
         elif input_string == 'late_list':
             print(sorted(late_list(students, deadline_date)))
         elif input_string == 'exit':
-            print('bye!')
+            print('Bye!')
             break
 
 
