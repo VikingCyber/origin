@@ -16,6 +16,4 @@
 <br>***Возвращает список из фамилий студентов, просрочивших дедлайн:***
 <br>``['bonchbruevich', 'petrov', 'sidorov']``
 
-<p> Иногда бывает полезно отвлечься от напряженной работы над задачей, для того чтобы повысить производительность труда в целом <br>
-  поэтому считаю уместным разместить здесь изображения эстетически прятное моему взору.
-<br>![Pretty](digital-art-women-blonde-futuristic-wallpaper-preview.jpg)
+![Pretty]([digital-art-women-blonde-futuristic-wallpaper-preview.jpg](https://www.wallpaperflare.com/digital-art-women-blonde-futuristic-tattoo-robot-science-fiction-wallpaper-cubee))
