@@ -18,4 +18,4 @@
 
 <p> Иногда бывает полезно отвлечься от напряженной работы над задачей, для того чтобы повысить производительность труда в целом <br>
   поэтому считаю уместным разместить здесь изображения эстетически прятное моему взору.
-  ![Pretty](digital-art-women-blonde-futuristic-wallpaper-preview.jpg)
+<br>![Pretty](digital-art-women-blonde-futuristic-wallpaper-preview.jpg)
